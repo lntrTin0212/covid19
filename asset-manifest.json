@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7ccbfd29.css",
+    "main.js": "./static/js/main.96308a13.js",
+    "static/media/trongtin1.mp4": "./static/media/trongtin1.3d3af57246a1be9b40ef.mp4",
+    "static/media/trongtin2.mp4": "./static/media/trongtin2.0aeddd3630e765257a7f.mp4",
+    "static/media/trongtin3.mp4": "./static/media/trongtin3.ea7c59db9898021cfc9c.mp4",
+    "static/media/dizziness.png": "./static/media/dizziness.67422eccca1ea61e00df.png",
+    "static/media/song.mp3": "./static/media/song.957aeecf7c6a548d4db7.mp3",
+    "static/media/difficulty-breathing.png": "./static/media/difficulty-breathing.236a9bab300a4c188041.png",
+    "static/media/cough.png": "./static/media/cough.b126299113acdb54ffeb.png",
+    "static/media/loss-of-sense-of-taste.png": "./static/media/loss-of-sense-of-taste.6417beabf9819e8f3d97.png",
+    "static/media/smell.png": "./static/media/smell.794d122e7a3901c3c74f.png",
+    "static/media/symptoms2.svg": "./static/media/symptoms2.9a15cab33aaedc17b4cd167765a20a1c.svg",
+    "static/media/virus__group.png": "./static/media/virus__group.eb319f4b5eb2f3eba3f4.png",
+    "static/media/shape__white1.png": "./static/media/shape__white1.90a42ad8575bdaa8760d.png",
+    "index.html": "./index.html",
+    "main.7ccbfd29.css.map": "./static/css/main.7ccbfd29.css.map",
+    "main.96308a13.js.map": "./static/js/main.96308a13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ccbfd29.css",
+    "static/js/main.96308a13.js"
+  ]
+}
