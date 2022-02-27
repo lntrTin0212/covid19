@@ -1,0 +1,60 @@
+{
+  "name": "covid19",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://lntrtin0212.github.io/covid19/",
+  "dependencies": {
+    "@fontsource/roboto": "^4.5.3",
+    "@highcharts/map-collection": "^2.0.0",
+    "@material-ui/core": "^4.12.3",
+    "@tensorflow-models/knn-classifier": "^1.2.2",
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs": "^3.13.0",
+    "@tensorflow/tfjs-backend-webgl": "^3.13.0",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.3",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.26.0",
+    "highcharts": "^9.3.3",
+    "highcharts-react-official": "^3.1.0",
+    "howler": "^2.2.3",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "nvm": "^0.0.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "^5.0.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "react-scripts build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
